@@ -1,9 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
+hash = "2e3a8f0e3bda85a7d722720e7ce879cbd9d028d9395c6fc224d329b3c982d9b1"
+
+[[files]]
+file = "mods/enchanted-fabric-1.21.1-4.2.3.jar"
+hash = "b2ae6be9e474114542aa6aa20bdd45c973e8363a77566458389bb0d1902f7b0a"
+
+[[files]]
 file = "mods/enchanted-witchcraft.pw.toml"
 hash = "bd2a4f57165695a15f63f7df4dc5fa48c3078ab8228c54ea6530bd49c66553a0"
 metafile = true
+
+[[files]]
+file = "mods/fabric-api-0.116.7+1.21.1.jar"
+hash = "08018cc48c97415a38016a00dbd5a2c7a460ba6b7a051690a8cb3dbb5e8482a4"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
@@ -16,9 +28,17 @@ hash = "d0e586bf4b4f9f003b1de1a3e18f67540233a0295b487009047056198f694f0f"
 metafile = true
 
 [[files]]
+file = "mods/geckolib-fabric-1.21.1-4.8.2.jar"
+hash = "a70c334830decbb9d7cb88478a49d19d6ce823ba3356ca62034a445fef3c2d04"
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "eba84c0fa4bdcc4ebca816482af78ab50cba8362591d4354b490da8f563bbe89"
 metafile = true
+
+[[files]]
+file = "mods/lithium-fabric-0.15.1+mc1.21.1.jar"
+hash = "aaa15b94d06486547a36c9c7cb4de0a4ab75dc40e0d9efc33f589251ca8260e0"
 
 [[files]]
 file = "mods/lithium.pw.toml"
@@ -26,9 +46,17 @@ hash = "5564dbbe8adc0ba450afc6a1c3eef82f183a53ede5f3b1de0bc6ca320aadc5e9"
 metafile = true
 
 [[files]]
+file = "mods/modopedia-fabric-1.21.1-1.1.5.jar"
+hash = "6d446fcda7316f894db2542eac9c2d3e1cbb18c0d00d098ac43b848e71bd646f"
+
+[[files]]
 file = "mods/modopedia.pw.toml"
 hash = "32d755d17bd4d01a562a00cd6a9ab285c60c8aaa735608ad2c99697ada5181d7"
 metafile = true
+
+[[files]]
+file = "mods/sodium-fabric-0.6.13+mc1.21.1.jar"
+hash = "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353"
 
 [[files]]
 file = "mods/sodium.pw.toml"
@@ -36,6 +64,22 @@ hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
 metafile = true
 
 [[files]]
+file = "mods/stateobserver-fabric-1.21.1-1.6.4.jar"
+hash = "9dfffdcd07ca79656f460fd3725f6f245e546eabb6d2e301be6cfa21b4654b38"
+
+[[files]]
 file = "mods/stateobserver.pw.toml"
 hash = "5e95bd67d0108d055c0aa09bfc071dd5e66c22b63d4a5c5fd805eaf40c7e3c7a"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
+file = "packwiz.json"
+hash = "e67e98748e04f95773b49e17505dcfb83b84a3eddee6052b1c3f6f8a94a70b47"
