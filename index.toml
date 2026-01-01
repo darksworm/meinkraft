@@ -59,11 +59,6 @@ file = "mods/sodium-fabric-0.6.13+mc1.21.1.jar"
 hash = "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353"
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
-metafile = true
-
-[[files]]
 file = "mods/stateobserver-fabric-1.21.1-1.6.4.jar"
 hash = "9dfffdcd07ca79656f460fd3725f6f245e546eabb6d2e301be6cfa21b4654b38"
 
