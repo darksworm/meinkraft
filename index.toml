@@ -1,0 +1,41 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/enchanted-witchcraft.pw.toml"
+hash = "bd2a4f57165695a15f63f7df4dc5fa48c3078ab8228c54ea6530bd49c66553a0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "0e28ba15ba1769864a4af0b2f7ffaa3c90017b49633bef2a843b14a46e9a791d"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "d0e586bf4b4f9f003b1de1a3e18f67540233a0295b487009047056198f694f0f"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "eba84c0fa4bdcc4ebca816482af78ab50cba8362591d4354b490da8f563bbe89"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "5564dbbe8adc0ba450afc6a1c3eef82f183a53ede5f3b1de0bc6ca320aadc5e9"
+metafile = true
+
+[[files]]
+file = "mods/modopedia.pw.toml"
+hash = "32d755d17bd4d01a562a00cd6a9ab285c60c8aaa735608ad2c99697ada5181d7"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+metafile = true
+
+[[files]]
+file = "mods/stateobserver.pw.toml"
+hash = "5e95bd67d0108d055c0aa09bfc071dd5e66c22b63d4a5c5fd805eaf40c7e3c7a"
+metafile = true

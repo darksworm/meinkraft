@@ -1,0 +1,13 @@
+name = "Enchanted: Witchcraft"
+filename = "enchanted-fabric-1.21.1-4.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a46de594f823636688ae8dd3a7083bca1d34d303"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6948684
+project-id = 560363
